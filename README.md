@@ -209,9 +209,8 @@ See `CONTRIBUTING.md` for the format.
 
 ## Built From
 
-This template was extracted from a real preparation system built for a  
-Head of Product interview at a Series B Indian legal tech company.  
-The specific content has been removed. The architecture and the  
+This template was extracted from a real preparation system built for interviews at Indian tech companies.  
+While the specific content has been removed, the architecture and the  
 skill design are kept intact because they are universally applicable  
 to any senior product leader preparing for a C-suite panel.
 
