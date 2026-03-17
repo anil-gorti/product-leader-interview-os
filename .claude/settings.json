@@ -1,0 +1,11 @@
+{
+  "project": {
+    "name": "Product Leader Interview OS",
+    "description": "Senior PM interview preparation for Directors and above, C-suite conversations, India-focused"
+  },
+  "onSessionStart": [
+    "Read AGENTS.md",
+    "Read config/active-skills.md",
+    "Confirm context loaded and identify any gaps in knowledge files"
+  ]
+}

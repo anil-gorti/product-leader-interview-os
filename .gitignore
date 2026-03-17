@@ -1,0 +1,21 @@
+# Personal memory — do not commit
+memory/interview-sessions/*.md
+memory/decisions/*.md
+memory/stakeholder-intel/*.md
+memory/team-assessments/*.md
+
+# Personal knowledge — do not commit
+knowledge/_me/proof-points.md
+knowledge/_me/career-arc.md
+knowledge/target-company/*.md
+knowledge/strategy/*.md
+knowledge/analogies/*.md
+knowledge/domain/*.md
+
+# Output files
+output/
+
+# OS files
+.DS_Store
+*.pyc
+__pycache__/
