@@ -1,3 +1,5 @@
+> ⚠️ Consolidated into [anil-gorti/product-org-os-master](https://github.com/anil-gorti/product-org-os-master). This repository is archived and kept for historical reference.
+
 # Product Leader Interview OS
 
 **A Claude Code-powered preparation system for Directors and above  
